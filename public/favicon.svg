@@ -1,0 +1,18 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Store building -->
+  <rect x="5" y="11" width="22" height="16" fill="#0a0a0a" rx="1"/>
+  <rect x="6" y="13" width="20" height="13" fill="white"/>
+  
+  <!-- Door -->
+  <rect x="13" y="18" width="6" height="8" fill="#0a0a0a"/>
+  
+  <!-- Windows -->
+  <rect x="8" y="15" width="4" height="3" fill="#0a0a0a"/>
+  <rect x="20" y="15" width="4" height="3" fill="#0a0a0a"/>
+  
+  <!-- Awning -->
+  <path d="M3 11 L16 8 L29 11 L27 13 L16 10 L5 13 Z" fill="#0a0a0a"/>
+  
+  <!-- Star -->
+  <path d="M16 2 L17.5 6 L22 6 L18.5 9 L20 13 L16 10 L12 13 L13.5 9 L10 6 L14.5 6 Z" fill="#fbbf24" stroke="#0a0a0a" stroke-width="0.5"/>
+</svg>
